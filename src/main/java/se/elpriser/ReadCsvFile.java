@@ -1,3 +1,4 @@
+// Inte färdig, behöver inte utvärderas.
 package se.elpriser;
 
 import java.io.BufferedReader;
